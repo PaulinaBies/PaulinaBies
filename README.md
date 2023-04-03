@@ -6,9 +6,11 @@
 - <b>Application</b>
   - [Aquarium User Interface]
 - <b>Python</b>
-  - [Solitaire Game]
+  - [Solitaire Game](https://github.com/PaulinaBies/Solitair)  
 - <b>C++</b>
   - [Sudoku Solver](https://github.com/PaulinaBies/SudokuSolver)
+  
+  
 
 
 <h2> 🤳 Connect with me:</h2>
