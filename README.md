@@ -1,8 +1,8 @@
 <h1>Hi, I'm Paulina!
 <h2>My Programming Projects:</h2>
 
-- <b>Threads and Seamphores Practice</b>
-  - [Shearsort Algorithm]
+- <b>Threads and Semaphores Practice</b>
+  - [Shearsort Algorithm](https://github.com/PaulinaBies/ShearSort)  
 - <b>Application</b>
   - [Aquarium User Interface]
 - <b>Python</b>
