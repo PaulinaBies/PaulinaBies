@@ -8,7 +8,7 @@
 - <b>Python</b>
   - [Solitaire Game]
 - <b>C++</b>
-  - [Sudoku Solver]
+  - [Sudoku Solver](https://github.com/PaulinaBies/SudokuSolver)
 
 
 <h2> 🤳 Connect with me:</h2>
