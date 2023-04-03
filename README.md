@@ -6,7 +6,7 @@
 - <b>Application</b>
   - [Aquarium User Interface]
 - <b>Python</b>
-  - [Solitaire Game](https://github.com/PaulinaBies/Solitair)  
+  - [Solitaire Game](https://github.com/PaulinaBies/Solitair)
 - <b>C++</b>
   - [Sudoku Solver](https://github.com/PaulinaBies/SudokuSolver)
   
